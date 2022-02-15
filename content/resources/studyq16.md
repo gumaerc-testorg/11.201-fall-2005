@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains reading tips and study questions on session 16.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2005/9be07ec04817263fab72989c505de6a6_studyq16.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2005/9be07ec04817263fab72989c505de6a6_studyq16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: studyq16.pdf
 uid: 9be07ec0-4817-263f-ab72-989c505de6a6

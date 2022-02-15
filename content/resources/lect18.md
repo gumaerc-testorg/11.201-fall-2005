@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource includes notes on ''Planning and Human Diversity: Lessons
   from History and the World We Know Today'' by Prof. de Souza Briggs.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2005/224fe58b42da8eed89757953856eb0ae_lect18.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2005/224fe58b42da8eed89757953856eb0ae_lect18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect18.pdf
 uid: 224fe58b-42da-8eed-8975-7953856eb0ae

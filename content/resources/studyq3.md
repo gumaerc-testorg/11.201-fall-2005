@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains reading tips and study questions on session 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2005/61570df8c6b5d38abe3c3b4410ff36be_studyq3.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2005/61570df8c6b5d38abe3c3b4410ff36be_studyq3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: studyq3.pdf
 uid: 61570df8-c6b5-d38a-be3c-3b4410ff36be
