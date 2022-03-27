@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 314fe87d-93c0-b34b-ebf3-6e477e72bbd8
 resourcetype: Document
 title: studyq8.pdf
 uid: bf4500b6-e6b0-fe58-dd7a-b51fe914220d

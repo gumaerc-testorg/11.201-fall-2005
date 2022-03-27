@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 314fe87d-93c0-b34b-ebf3-6e477e72bbd8
 resourcetype: Document
 title: wkshp1.pdf
 uid: 8afae903-aebf-74f1-edaa-62dccb1a9bd2

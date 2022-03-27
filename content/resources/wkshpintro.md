@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 314fe87d-93c0-b34b-ebf3-6e477e72bbd8
 resourcetype: Document
 title: wkshpintro.pdf
 uid: adeb5ed1-3cb5-e98a-bbbf-b623d6b0f4b9

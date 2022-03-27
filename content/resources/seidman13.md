@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 314fe87d-93c0-b34b-ebf3-6e477e72bbd8
 resourcetype: Document
 title: seidman13.pdf
 uid: 54f63abf-1ffd-af57-97b2-28da141866ca
