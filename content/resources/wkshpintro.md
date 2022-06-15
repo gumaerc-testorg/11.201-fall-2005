@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-201-gateway-planning-action-fall-2005/adeb5ed13cb5e98abbbfb623d6b0f4b9_wkshpintro.pdf
+file: /courses/11-201-gateway-planning-action-fall-2005/adeb5ed13cb5e98abbbfb623d6b0f4b9_wkshpintro.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

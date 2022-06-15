@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes background on the cases discusses in lecture 4.
-file: /media/courses/11-201-gateway-planning-action-fall-2005/43b7cd9ebdfc65b9ba24cdd89e9fef9c_lect4bkgd.pdf
+file: /courses/11-201-gateway-planning-action-fall-2005/43b7cd9ebdfc65b9ba24cdd89e9fef9c_lect4bkgd.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lect4bkgd.pdf
 uid: 43b7cd9e-bdfc-65b9-ba24-cdd89e9fef9c
 ---
+This resource includes background on the cases discusses in lecture 4.
+

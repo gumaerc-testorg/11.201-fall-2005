@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains reading tips and study questions on session 16.
-file: /media/courses/11-201-gateway-planning-action-fall-2005/9be07ec04817263fab72989c505de6a6_studyq16.pdf
+file: /courses/11-201-gateway-planning-action-fall-2005/9be07ec04817263fab72989c505de6a6_studyq16.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: studyq16.pdf
 uid: 9be07ec0-4817-263f-ab72-989c505de6a6
 ---
+This resource contains reading tips and study questions on session 16.
+
