@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2005/87ee182c93afb2cfbe4c69d6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect1.pdf
 uid: 87ee182c-93af-b2cf-be4c-69d645e68dd8
 ---
 This resource includes notes on 'Effective Teamwork' by Prof. de Souza Briggs.
-

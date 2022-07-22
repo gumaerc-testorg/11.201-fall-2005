@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2005/9485a2a1294a9e455b99e59d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect7.pdf
 uid: 9485a2a1-294a-9e45-5b99-e59df060fcf6
 ---
 This resource includes notes on 'Revisiting the Field' by Prof. Vale.
-

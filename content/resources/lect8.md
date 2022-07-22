@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2005/56813cced619dd925d414dda
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect8.pdf
 uid: 56813cce-d619-dd92-5d41-4dda6a089edd
 ---
 This resource includes notes on 'Development and Mobilization: Narmada in India' by Prof. Rajagopal.
-

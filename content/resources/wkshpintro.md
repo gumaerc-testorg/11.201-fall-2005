@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2005/adeb5ed13cb5e98abbbfb623
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

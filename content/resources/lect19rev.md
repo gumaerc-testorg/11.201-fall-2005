@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2005/3136ab5732dde0ebc604a88d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect19rev.pdf
 uid: 3136ab57-32dd-e0eb-c604-a88d1703feee
 ---
 This resource includes notes on 'Course Review' by Prof. de Souza Briggs.
-

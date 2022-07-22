@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2005/9be07ec04817263fab72989c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: studyq16.pdf
 uid: 9be07ec0-4817-263f-ab72-989c505de6a6
 ---
 This resource contains reading tips and study questions on session 16.
-
