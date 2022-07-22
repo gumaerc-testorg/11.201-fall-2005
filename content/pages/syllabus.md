@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Syllabus section contains information about course overview, format and
+  details, structure, group work, evaluation and feedback, grading, professional communication
+  and groupwork, course materials and required texts.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2f9d3fbb-1ec6-07db-c1b6-0e8c30840702
 ---
@@ -68,7 +73,7 @@ Your grade will be based on:
 3.  A take-home final exam; and
 4.  Effective class participation week to week.
 
-The written and oral assignments will be linked to our cases, with specific instructions available in the [assignments]({{< baseurl >}}/pages/assignments) section.
+The written and oral assignments will be linked to our cases, with specific instructions available in the {{% resource_link 87fcc105-1323-2c35-a932-6201be5698c2 "assignments" %}} section.
 
 **Note:** You will prepare and deliver an oral briefing for **one** case (according to your workgroup assignment) and written assignments for the other **two** cases. Written assignments are due in class on the date of the briefings.
 

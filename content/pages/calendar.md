@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The calendar includes information about regular lecture sessions (L),
+  review sessions (R), workshops (W), special sessions (S), assignment and final exam
+  due dates, and other key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 15e8356f-0b31-43f6-2f99-842f5239389d
 ---
