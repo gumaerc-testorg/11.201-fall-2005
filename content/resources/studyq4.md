@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains reading tips and study questions on session 4.
 file: /courses/11-201-gateway-planning-action-fall-2005/09e854a15449635689cef6088f8e9449_studyq4.pdf
+file_size: 25184
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

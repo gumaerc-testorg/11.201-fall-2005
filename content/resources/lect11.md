@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes notes on ''Revisiting the Field: Planning from
   ''above'' and ''below'' by Prof. Rajagopal and Prof. de Souza Briggs.'
 file: /courses/11-201-gateway-planning-action-fall-2005/23213c53be3fb6706ee73d62558df994_lect11.pdf
+file_size: 51076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
