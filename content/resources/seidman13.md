@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes notes on 'Community Economic Development' by Prof.
   Seidman.
 file: /courses/11-201-gateway-planning-action-fall-2005/54f63abf1ffdaf5797b228da141866ca_seidman13.pdf
+file_size: 43321
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

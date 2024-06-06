@@ -4,6 +4,7 @@ description: 'This resource contains students assignment on the topic - Case 3: 
   Growth Machine and the Public Interest: Reinventing the Anacostia Waterfront in
   Washington, DC.'
 file: /courses/11-201-gateway-planning-action-fall-2005/e1f1dff47bec6d89890d587c5f8be6ed_assn4gp.pdf
+file_size: 46146
 file_type: application/pdf
 learning_resource_types:
 - Assignments

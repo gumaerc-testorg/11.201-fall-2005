@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes notes on 'Planning Dilemmas' by Prof. de Souza
   Briggs.
 file: /courses/11-201-gateway-planning-action-fall-2005/3c746fc8942b448b2c7cea5aa7f1f1b6_lect3.pdf
+file_size: 39716
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
