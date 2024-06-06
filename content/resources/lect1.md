@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes notes on 'Effective Teamwork' by Prof. de Souza
   Briggs.
 file: /courses/11-201-gateway-planning-action-fall-2005/87ee182c93afb2cfbe4c69d645e68dd8_lect1.pdf
+file_size: 40758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
