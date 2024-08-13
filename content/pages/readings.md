@@ -107,7 +107,7 @@ Case Introduction: Expert vs. Indigenous Knowledge; Power and Limits of Physical
 
 Marcuse, Peter. "Interpreting 'Public Housing' History." *Journal of Architectural and Planning Research* 12, no. 3 (Autumn 1995): 240-258.
 
-Vale, Lawrence J. "Introduction," and "Reclaiming Housing, Recovering Communities." In *Reclaiming Public Housing*. Cambridge, MA: Harvard University Press, 2002, pp. 1-36, 362-411. ISBN: 0674008987.    
+Vale, Lawrence J. "Introduction," and "Reclaiming Housing, Recovering Communities." In *Reclaiming Public Housing*. Cambridge, MA: Harvard University Press, 2002, pp. 1-36, 362-411. ISBN: 0674008987.     
 (Additional chapters from this book provide useful background for completing both the group and individual assignments.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -226,13 +226,13 @@ PBS. "[The Dammed: Resources](http://www.pbs.org/wnet/wideangle/episodes/the-dam
 
 [Friends of the River Narmada](https://sites.google.com/site/narmadaorgin/)
 
-[The Narmada Valley Development Authority, the state-level organization that oversees the dam construction in Madhya Pradesh](http://www.nvda.mp.gov.in/)
+[The Narmada Valley Development Authority, the state-level organization that oversees the dam construction in Madhya Pradesh](https://web.archive.org/web/20220819143754/https://nvda.mp.gov.in/)
 
-[The Narmada Control Authority (NCA)](http://nca.gov.in/index_.htm): The overseeing organization for the whole project. See especially the 'Frequently asked questions' section in the NCA's Web site.
+[The Narmada Control Authority (NCA)](https://jalshakti-dowr.gov.in/narmada-control-authority/): The overseeing organization for the whole project. See especially the 'Frequently asked questions' section in the NCA's Web site.
 
 [Report of the Indian People's Tribunal on Environment and Human Rights.](http://worldcat.org/identities/lccn-no00050844/)
 
-National Water Policy, 2002, Government of India. ([PDF](https://jalshakti-dowr.gov.in/sites/default/files/nwp20025617515534_1.pdf))
+National Water Policy, 2002, Government of India. ([PDF](https://nwm.gov.in/sites/default/files/nwp20025617515534.pdf))
 
 [Response to the WCD Report](http://www.unep.org/dams/documents/default.asp?documentid=524) (see especially the World Bank's and ICOLD member's)
 
@@ -328,7 +328,7 @@ Lengel, Allan. "From Blight to Beautification." *The Washington Post*, May 26, 2
 
 Summit Fund of Washington. "Building Support for Restoring the Anacostia River." December, 2004.
 
-[DC Appleseed Center](http://www.dcappleseed.com/)
+[DC Appleseed Center](https://www.dcappleseed.org/)
 
 Byron, Joan. "Transforming the Southern Bronx River Watershed." Pratt Institute Center for Community and Environmental Development Working Paper. Presented at the Walk21-V Cities for People Conference, Copenhagen, Denmark, 2004. ([PDF - 4.2 MB](https://mail.prattcenter.net/sites/default/files/transforming_the_southern_bronx_river_watershed.pdf))
 
