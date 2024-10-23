@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains reading tips and study questions on session 17.
-file: /courses/11-201-gateway-planning-action-fall-2005/d60c671c12dc3a67713d8b80d3380f9a_studyq17.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/d60c671c12dc3a67713d8b80d3380f9a_studyq17.pdf
 file_size: 20612
 file_type: application/pdf
 learning_resource_types:
