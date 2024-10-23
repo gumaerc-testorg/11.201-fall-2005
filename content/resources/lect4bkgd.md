@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes background on the cases discusses in lecture 4.
-file: /courses/11-201-gateway-planning-action-fall-2005/43b7cd9ebdfc65b9ba24cdd89e9fef9c_lect4bkgd.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/43b7cd9ebdfc65b9ba24cdd89e9fef9c_lect4bkgd.pdf
 file_size: 17793
 file_type: application/pdf
 learning_resource_types:
