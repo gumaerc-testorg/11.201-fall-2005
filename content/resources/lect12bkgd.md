@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes background on the topic - The Growth Machine
   and the Public: Reinventing the Anacostia Waterfront in Washington, DC.'
-file: /courses/11-201-gateway-planning-action-fall-2005/f0b2c28d1b0eac43d64d7b8baa12ad43_lect12bkgd.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/f0b2c28d1b0eac43d64d7b8baa12ad43_lect12bkgd.pdf
 file_size: 17199
 file_type: application/pdf
 learning_resource_types:

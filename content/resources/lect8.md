@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes notes on ''Development and Mobilization: Narmada
   in India'' by Prof. Rajagopal.'
-file: /courses/11-201-gateway-planning-action-fall-2005/56813cced619dd925d414dda6a089edd_lect8.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/56813cced619dd925d414dda6a089edd_lect8.pdf
 file_size: 23073
 file_type: application/pdf
 learning_resource_types:
