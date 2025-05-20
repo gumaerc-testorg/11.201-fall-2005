@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes notes on 'Economics Review' by Prof. Levy.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/94855c3e6750b7cc9e0d53c9fcd723f3_levy13.pdf
+file: /courses/11-201-gateway-planning-action-fall-2005/94855c3e6750b7cc9e0d53c9fcd723f3_levy13.pdf
 file_size: 59631
 file_type: application/pdf
 learning_resource_types:

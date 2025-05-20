@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes debrief on ''Debriefing the briefings: Public
   Housing Redevelopment'' by Prof. de Souza Briggs.'
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/5280abd2da1f06fa25fd295d217aa091_lect7debrief.pdf
+file: /courses/11-201-gateway-planning-action-fall-2005/5280abd2da1f06fa25fd295d217aa091_lect7debrief.pdf
 file_size: 200858
 file_type: application/pdf
 learning_resource_types:
