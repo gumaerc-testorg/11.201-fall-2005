@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes notes on 'Planning Traditions' by Prof. de Souza
   Briggs.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2005/7c201acbd1aca0779fb7b36a666e500b_lect2.pdf
+file: /courses/11-201-gateway-planning-action-fall-2005/7c201acbd1aca0779fb7b36a666e500b_lect2.pdf
 file_size: 52359
 file_type: application/pdf
 learning_resource_types:
